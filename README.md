@@ -1,4 +1,4 @@
 # hello-world
 hello,github
 
-machine learning,deep learning,python,tensorflow,ros
+robotics,artificial intellegent,robot recognition,machine learning,deep learning,python,tensorflow,ros
